@@ -3,7 +3,7 @@
 Hands-on security work covering **incident response, digital forensics, scripting and risk management**, built while studying cybersecurity at City Colleges of Chicago.
 
 **Focus areas:** security operations · log analysis · incident handling · IT risk · cloud security
-**Training:** CompTIA Network+ · ISACA IT Risk Fundamentals · [add CompTIA Security+ when complete]
+**Training:** CompTIA Network+ · ISACA IT Risk Fundamentals · 
 
 ---
 
