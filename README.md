@@ -42,4 +42,4 @@ python3 failed_login_detector.py sample_data/auth.log
 All data in this repository is simulated. IP addresses come from ranges reserved for documentation (RFC 5737). These tools are for defensive learning and authorized use only.
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [your.email@example.com]
+[LinkedIn](https://www.linkedin.com/in/tr2026) · [chicitytechie2026@outlook.com]
